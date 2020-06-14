@@ -64,7 +64,8 @@
 			"prio":["EP/GP"],
 			"gp:":""
 		},
-	},	"Multiple Bosses":{
+	},
+	"Multiple Bosses":{
 		"Helm of the Lifegiver":{
 			"prio":["EP/GP"],
 			"gp:":"",
@@ -150,10 +151,12 @@
 		"Arcanists Boots":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Felheart Gloves":{
+		},
+		"Felheart Gloves":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Cenarion Boots":{
+		},
+		"Cenarion Boots":{
 			"prio":["EP/GP"],
 			"gp:":"",
 		},
@@ -182,10 +185,12 @@
 		"Felheart Pants":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Nightslayer Pants":{
+		},
+		"Nightslayer Pants":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Cenarion Leggings":{
+		},
+		"Cenarion Leggings":{
 			"prio":["wildhotts","EP/GP"],
 			"gp:":"",
 		},
@@ -204,17 +209,21 @@
 		"Eskhandars Right Claw":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Medallion of Steadfast Might":{
+		},
+		"Medallion of Steadfast Might":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Strikers Mark":{
+		},
+		"Strikers Mark":{
 			"prio":["Supertoxic(1)","BenDriller(1)","Dardoc(1)","SilkyJohnsn(2)","EP/GP"],
 			"gp:":"",
 		},
 		"Earthshaker":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},	},	"Gehennas":{
+		},
+	},
+	"Gehennas":{
 		"Gloves of Prophecy":{
 			"prio":["Mh(1)","Jowsus","EP/GP"],
 			"gp:":"",
@@ -222,30 +231,38 @@
 		"Nightslayer Gloves":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Giantstalkers Boots":{
-			"prio":["EP/GP"],
-			"gp:":"",
-		},		"Lawbringer Gauntlets":{
-			"prio":["EP/GP"],
-			"gp:":"",
-		},		"Sabatons of Might":{
+		},
+		"Giantstalkers Boots":{
 			"prio":["EP/GP"],
 			"gp:":"",
 		},
-	},	"Garr":{
+		"Lawbringer Gauntlets":{
+			"prio":["EP/GP"],
+			"gp:":"",
+		},
+		"Sabatons of Might":{
+			"prio":["EP/GP"],
+			"gp:":"",
+		},
+	},
+	"Garr":{
 		"Circlet of Prophecy":{
 			"prio":["Nattys(2)","EP/GP"],
 			"gp:":"",
-		},		"Arcanist Crown":{
+		},
+		"Arcanist Crown":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Felheart Horns":{
+		},
+		"Felheart Horns":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Nightslayer Cover":{
+		},
+		"Nightslayer Cover":{
 			"prio":["EP/GP"],
 		"gp:":"",
-		},		"Cenarion Helm":{
+		},
+		"Cenarion Helm":{
 			"prio":["Swagdragon(1)","EP/GP"],
 			"gp:":"",
 		},
@@ -256,19 +273,24 @@
 		"Lawbringer Helm":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Helm of Might":{
+		},
+		"Helm of Might":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Drillborer Disk":{
+		},
+		"Drillborer Disk":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Gutgore Ripper":{
+		},
+		"Gutgore Ripper":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Aurastone Hammer":{
+		},
+		"Aurastone Hammer":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Brutality Blade":{
+		},
+		"Brutality Blade":{
 			"prio":["Wizzo(1)","EP/GP"],
 			"gp:":"",
 		},
@@ -298,25 +320,30 @@
 			"prio":["EP/GP"],
 			"gp:":"",
 		},
-	},	"Baron Gedon":{
+	},
+	"Baron Gedon":{
 		"Arcanist Mantle":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Felheart Shoulder Pags":{
+		},
+		"Felheart Shoulder Pags":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Cenarion Spaulders":{
+		},
+		"Cenarion Spaulders":{
 			"prio":["Swagdragon(1)","EP/GP"],
 			"gp:":"",
 		},
 		"Lawbringer Spaulders":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Seal of the Archmagus":{
+		},
+		"Seal of the Archmagus":{
 			"prio":["EP/GP"],
 			"gp:":"",
 		},
-	},	"Golemagg the Incinerator":{
+	},
+	"Golemagg the Incinerator":{
 		"Robes of Prophecy":{
 			"prio":["Mh(1)","EP/GP"],
 			"gp:":"",
@@ -344,13 +371,16 @@
 		"Lawbringer Chestguard":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Breastplate of Might":{
+		},
+		"Breastplate of Might":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Blastershot Launcher":{
+		},
+		"Blastershot Launcher":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Azuresong Mageblade":{
+		},
+		"Azuresong Mageblade":{
 			"prio":["Votelock","Caster prio","EP/GP"],
 			"gp:":"",
 		},
@@ -363,13 +393,16 @@
 		"Mantle of Prophecy":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Nightslayer Shoulder Pads":{
+		},
+		"Nightslayer Shoulder Pads":{
 				"prio":["EP/GP"],
 			"	gp:":"",
-		},		"Giantstalkers Epaulets":{
+		},
+		"Giantstalkers Epaulets":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Pauldrons of Might":{
+		},
+		"Pauldrons of Might":{
 				"prio":["EP/GP"],
 				"gp:":"",
 			},
@@ -418,7 +451,8 @@
 		"Ancient Petrified Leaf":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"The Eye of Divinity":{
+		},
+		"The Eye of Divinity":{
 			"prio":["EP/GP"],
 			"gp:":"",
 		},
@@ -431,32 +465,40 @@
 		"Netherwind Pants":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Nemesis Leggings":{
+		},
+		"Nemesis Leggings":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Bloodfang Pants":{
+		},
+		"Bloodfang Pants":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Stormrage Legguards":{
+		},
+		"Stormrage Legguards":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Dragonstalkers Legguards":{
+		},
+		"Dragonstalkers Legguards":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Judgement Legplates":{
+		},
+		"Judgement Legplates":{
 			"prio":["Puffbuffcast(1)","EP/GP"],
 			"gp:":"",
 		},
 		"Legplates of Wrath":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Shard of the Flame":{
+		},
+		"Shard of the Flame":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Crown of Destruction":{
+		},
+		"Crown of Destruction":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Choker of the Fire Lord":{
+		},
+		"Choker of the Fire Lord":{
 			"prio":["Austeezy(1)","Puffbuffcast(1)","EP/GP"],
 			"gp:":"",
 		},
@@ -487,10 +529,12 @@
 		"Malistars Defender":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Spinal Reaper":{
+		},
+		"Spinal Reaper":{
 			"prio":["EP/GP"],
 			"gp:":"",
-		},		"Perditions Blade":{
+		},
+		"Perditions Blade":{
 			"prio":["Dagger rogue","Dagger tank","off-spec rogue","EP/GP"],
 			"gp:":"",
 		},
