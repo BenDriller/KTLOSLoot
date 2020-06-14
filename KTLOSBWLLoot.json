@@ -59,7 +59,7 @@
 			"gp":"",
 		},
 		"Dragonstalkers Bracers":{
-			"prio":"Grayfox","EP/GP"],
+			"prio":["Grayfox","EP/GP"],
 			"gp":"",
 		},
 		"Judgement Bindings":{
