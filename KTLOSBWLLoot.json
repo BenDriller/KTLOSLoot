@@ -91,7 +91,7 @@
 			"gp":"",
 		},
 		"The Untamed Blade":{
-			"prio":["PvP"],["EP/GP"],
+			"prio":["PvP","EP/GP"],
 			"gp":"",
 		},
 	},
@@ -99,7 +99,7 @@
 		"Belt of Transcendence":{
 			"prio":["EP/GP"],
 			"gp":"",
-		}
+		},
 		"Netherwind Belt":{
 			"prio":["EP/GP"],
 			"gp":"",
