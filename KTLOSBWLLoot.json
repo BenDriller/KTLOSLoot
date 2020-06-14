@@ -147,7 +147,7 @@
 		"Red Dragonscale Protector":{
 			"prio":["Lianli(1)","EP/GP"],
 			"gp":"",
-		}
+		},
 		"Dragonfang Blade":{
 			"prio":["Mainspec Dagger Rogues prio","Dagger tank w/ ACLG","Offspec Rogues","EP/GP"],
 			"gp":""
@@ -267,7 +267,7 @@
 		"Black Ash Robe":{
 			"prio":["EP/GP"],
 			"gp":"",
-		}
+		},
 		"Firemaws Clutch":{
 			"prio":["Spriest/Boomkin","EP/GP"],
 			"gp":"",
@@ -343,7 +343,7 @@
 		"Dragons Touch":{
 			"prio":["EP/GP"],
 			"gp":"",
-		}
+		},
 		"Herald of Woe":{
 			"prio":["EP/GP"],
 			"gp":"",
